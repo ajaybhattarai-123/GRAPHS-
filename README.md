@@ -1,8 +1,10 @@
-  ### CREATED BY: ER. AJAY BHATTARAI ###
+<h3>CREATED BY: ER. AJAY BHATTARAI</h3>
+
 <p>
-This folder contains <b>graph plotting codes</b> with <b>sample outputs</b> and <b>input data</b>. 
-  Most codes use <b>list-based data</b>, are <b>tested</b>, and are suitable for <b>research</b>. 
-  Prepared while learning from YouTube and formatted with AI, these codes can be freely utilized for <b>learning</b> or <b>research purposes</b>.<br><br>
-Please use the <b>sample image provided</b> to view the output first, and then use the code.
-  Additionally, an <b>Excel file sample</b> is provided in the <b>[GRAPH-WITH-DATE-VALUE-TRENDLINE]</b> folder.
+This folder contains <strong>graph plotting codes</strong> along with <strong>sample outputs</strong> and <strong>input data</strong>. 
+Most codes are <strong>list-based</strong>, thoroughly <strong>tested</strong>, and suitable for <strong>research</strong>. 
+Developed using guidance from YouTube and refined with AI, these codes can be freely used for <strong>learning</strong> or <strong>research purposes</strong>.<br><br>
+
+Please start by reviewing the <strong>sample image provided</strong> to understand the output before running the code. 
+Additionally, an <strong>Excel file sample</strong> is included in the <strong>[GRAPH-WITH-DATE-VALUE-TRENDLINE]</strong> folder.
 </p>
